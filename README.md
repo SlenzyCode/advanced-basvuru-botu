@@ -8,7 +8,7 @@
 ## 🤖 Bot Çalıştırma
 
 - [x] Öncelikle [Node.JS](https://nodejs.org/en) bilgisayarımıza indirip kuruyoruz.
-- [x] Ardından [Visual Studio Code] kuruyoruz ve açıyoruz.
+- [x] Ardından [Visual Studio Code](https://code.visualstudio.com/) kuruyoruz ve açıyoruz.
 - [x] İndrdiğimiz github projesini Visual Studio Code ile açıyoruz.
 - [x] .env bölümünü dolduruyoruz.
 - [x] Ardından Üst bölümdeki **Terminal** kısmını basıp **New Terminal** diyoruz ardından açılan terminal'e sırasıyla npm i ardından node . ile botu başlatıyoruz
