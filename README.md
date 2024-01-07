@@ -5,6 +5,14 @@
 - [x] Hatasız
 - [x] Modüler
 
+## 🤖 Bot Çalıştırma
+
+- [x] Öncelikne [Node.JS](https://nodejs.org/en) bilgisayarımıza indirip kuruyoruz.
+- [x] Ardından [Visual Studio Code] kuruyoruz ve açıyoruz.
+- [x] İndrdiğimiz github projesini Visual Studio Code ile açıyoruz.
+- [x] .env bölümünü dolduruyoruz.
+- [x] Ardından Üst bölümdeki **Terminal** kısmını basıp **New Terminal** diyoruz ardından açılan terminal'e sırasıyla npm i ardından node . ile botu başlatıyoruz
+
 ## 📷 Görseller
 ![image_1](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/56698ed5-30ce-4171-8ebf-b337684bb8a7)
 ![image_2](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/e045b312-38a4-4661-bc8d-c76b7f29ea58)
