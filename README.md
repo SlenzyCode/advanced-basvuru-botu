@@ -2,7 +2,6 @@
 
 ## 📑 Bot Özellikleri
 
-- [x] Ayarlamalı
 - [x] Hatasız
 - [x] Modüler
 
