@@ -7,7 +7,7 @@
 
 ## 🤖 Bot Çalıştırma
 
-- [x] Öncelikne [Node.JS](https://nodejs.org/en) bilgisayarımıza indirip kuruyoruz.
+- [x] Öncelikle [Node.JS](https://nodejs.org/en) bilgisayarımıza indirip kuruyoruz.
 - [x] Ardından [Visual Studio Code] kuruyoruz ve açıyoruz.
 - [x] İndrdiğimiz github projesini Visual Studio Code ile açıyoruz.
 - [x] .env bölümünü dolduruyoruz.
