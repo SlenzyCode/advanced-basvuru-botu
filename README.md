@@ -16,5 +16,5 @@
 ![image_7](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/fb230944-8b8a-423d-be1e-716b6c8cb10c)
 ![image_8](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/0f556011-75c6-43a7-bf32-6f77f7d1c8c6)
 ![image_9](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/7f555525-3a5f-4ed7-b765-27c339765cd1)
-![image_10](https://github.com/Slenz![image_11](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/e0f9166e-e1d3-449a-b745-ba74147eda8e)
-yCode/advanced-basvuru-botu/assets/137514443/b4a7b1d4-efa2-485e-9486-a20c8a87783b)
+![image_10](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/4f00c51f-568b-4ee4-af72-0c50708f239f)
+![image_11](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/2746f66e-bfd8-44d4-928c-70e84755df61)
