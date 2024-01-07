@@ -10,8 +10,34 @@
 - [x] Öncelikle [Node.JS](https://nodejs.org/en) bilgisayarımıza indirip kuruyoruz.
 - [x] Ardından [Visual Studio Code](https://code.visualstudio.com/) kuruyoruz ve açıyoruz.
 - [x] İndrdiğimiz github projesini Visual Studio Code ile açıyoruz.
-- [x] .env bölümünü dolduruyoruz.
+- [x] .env adlı dosya oluşturuyoruz içine aşağıdaki yazan kısmı atıyoruz.
 - [x] Ardından Üst bölümdeki **Terminal** kısmını basıp **New Terminal** diyoruz ardından açılan terminal'e sırasıyla npm i ardından node . ile botu başlatıyoruz
+
+```js
+# Bot
+TOKEN="" # Botunuzun tokeni.
+MONGO="" # Mongo url'si
+MONGO_TRUE_FALSE="true" # true yazar iseniz mongo db çalışır false yazar iseniz çalışmaz.
+
+# Başvuru Sistemi
+
+# Hesap İşlermleri
+KURUCU_ID="" # Başvuru sistemini kuracak kurucunun discord hesap idsi.
+# Rol İşlemleri
+YETKILI_ROL_ID="" # Başvuru kabul edilince verilecek yetkili rolü.
+YETKILI_ONAYLAYICI_ROL_ID="" # Başvuru'yu kim kabul edicek.
+BASVURU_YETKISINI_VERICEK_ROL_ID="" # Başvuru onaylandığında Yetkiyi verme botunun kullanma rolü.
+# Kanal İşlemleri
+BASVURU_LOG_KANAL_ID="" # Başvuru hangi kanal üzerinden yapılacak.
+BASVURU_ONAY_RED_KANAL_ID= "" # Başvuru onaylanınca veya red yiyince kanala mesaj gitsin.
+
+# Yetkili Alım Şartı
+ALIM_1="Olgun davranışlar." # Alım şartı 1.
+ALIM_2="Olgun davranışlar." # Alım şartı 2.
+ALIM_3="Olgun davranışlar." # Alım şartı 3.
+ALIM_4="Olgun davranışlar." # Alım şartı 4.
+ALIM_5="Olgun davranışlar." # Alım şartı 5.
+```
 
 ## 📷 Görseller
 ![image_1](https://github.com/SlenzyCode/advanced-basvuru-botu/assets/137514443/56698ed5-30ce-4171-8ebf-b337684bb8a7)
