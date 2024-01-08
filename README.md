@@ -17,7 +17,7 @@
 # Bot
 TOKEN="" # Botunuzun tokeni.
 MONGO="" # Mongo url'si
-MONGO_TRUE_FALSE="true" # true yazar iseniz mongo db çalışır false yazar iseniz çalışmaz.
+MONGO_TRUE_FALSE="" # true yazar iseniz mongo db çalışır false yazar iseniz çalışmaz.
 
 # Başvuru Sistemi
 
@@ -32,11 +32,11 @@ BASVURU_LOG_KANAL_ID="" # Başvuru hangi kanal üzerinden yapılacak.
 BASVURU_ONAY_RED_KANAL_ID= "" # Başvuru onaylanınca veya red yiyince kanala mesaj gitsin.
 
 # Yetkili Alım Şartı
-ALIM_1="Olgun davranışlar." # Alım şartı 1.
-ALIM_2="Olgun davranışlar." # Alım şartı 2.
-ALIM_3="Olgun davranışlar." # Alım şartı 3.
-ALIM_4="Olgun davranışlar." # Alım şartı 4.
-ALIM_5="Olgun davranışlar." # Alım şartı 5.
+ALIM_1="" # Alım şartı 1.
+ALIM_2="" # Alım şartı 2.
+ALIM_3="" # Alım şartı 3.
+ALIM_4="" # Alım şartı 4.
+ALIM_5="" # Alım şartı 5.
 ```
 
 ## 📷 Görseller
