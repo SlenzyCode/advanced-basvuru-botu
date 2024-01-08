@@ -13,7 +13,7 @@
 - [x] .env adlı dosya oluşturuyoruz içine aşağıdaki yazan kısmı atıyoruz.
 - [x] Ardından Üst bölümdeki **Terminal** kısmını basıp **New Terminal** diyoruz ardından açılan terminal'e sırasıyla npm i ardından node . ile botu başlatıyoruz
 
-```js
+```bash
 # Bot
 TOKEN="" # Botunuzun tokeni.
 MONGO="" # Mongo url'si
