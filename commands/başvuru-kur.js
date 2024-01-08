@@ -1,4 +1,4 @@
-const { EmbedBuilder, ButtonBuilder, ButtonStyle, ActionRowBuilder, PermissionsBitField, embedLength, MessageFlagsBitField } = require("discord.js");
+const { EmbedBuilder, ButtonBuilder, ButtonStyle, ActionRowBuilder, PermissionsBitField } = require("discord.js");
 const { JsonDatabase } = require("slenzy.db");
 const db = new JsonDatabase({ path: "./database/database.json" });
 const raven_text = require("raven_text");
