@@ -27,8 +27,8 @@ const client = new Client({
 });
 
 const chalk = require("chalk");
-const { JsonDatabase } = require("slenzy.db");
-const db = new JsonDatabase({ path: "./database/database.json" });
+const { JsonDatabase } = require("wio.db");
+const db = new JsonDatabase({ databasePath: "./database/database.json" });
 
 global.client = client;
 client.commands = global.commands = [];
